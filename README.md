@@ -1,3 +1,2 @@
 # discord-codes
-##### Discordについてのコード群
-##### ※初心者用
+#### Discordについてのコード群<br>※初心者用
