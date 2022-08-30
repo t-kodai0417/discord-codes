@@ -1,0 +1,2 @@
+# discord-codes
+#### Discordについてのコード群
